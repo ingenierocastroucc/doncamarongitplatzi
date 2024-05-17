@@ -1,3 +1,5 @@
 Ejemplo
 
 Se creara commit inicial, para prueba en git en la rama master.
+
+Se modifica para la carpeta clone.
