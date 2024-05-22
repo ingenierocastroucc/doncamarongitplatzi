@@ -50,6 +50,11 @@ body
     background: white;
     padding: 1em;
 }
+#post #coctelcamaron
+{
+    width: 300px;
+    vertical-align: middle;
+}
 #footer
 {
     background: #777;
