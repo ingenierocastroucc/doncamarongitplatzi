@@ -6,3 +6,7 @@ Se modifica para la carpeta clone.
 
 Se incluye linea de texto para realizar prueba del rebase.
 rebase main
+
+Rebase.
+
+RebaseDos.
