@@ -1,4 +1,4 @@
-# doncamarongitplatzi:information_source:
+# doncamarongitplatzi
 Contiene el codigo utilizado para el curso de git en platzi[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 > Esta version inicial de la pagina web de DonCamaron sera la base para todo el desarrollo completo del proyecto.
 > - developer
