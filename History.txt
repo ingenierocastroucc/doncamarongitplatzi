@@ -11,3 +11,5 @@ Rebase.
 
 RebaseDos.
 RebaseTres.
+
+Stash
