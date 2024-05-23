@@ -1,15 +1,9 @@
-Ejemplo
+History:
 
-Se creara commit inicial, para prueba en git en la rama master.
+Se modifica archivo history para dar a conocer de mejor manera, los cambios ejecutados en el proyecto.
 
-Se modifica para la carpeta clone.
-
-Se incluye linea de texto para realizar prueba del rebase.
-rebase main
-
-Rebase.
-
-RebaseDos.
-RebaseTres.
-
-Stash
+| Función agregada | Descripción                                            |
+| ---------------- | ------------------------------------------------------ |
+| `Header`         | Contiene el diseño de la cabecera inicial del proyecto.|
+| `Body`           | Contiene el body inicial del proyecto                  |
+| `Footer`         | Contiene el body inicial del proyecto                  |
